@@ -1,4 +1,4 @@
-# nft-flow
+# nft
 
 
 The CryptoPoops smart contract introduces a basic implementation of a non-fungible token (NFT) collection using the Cadence programming language on the Flow blockchain. This contract offers features such as NFT minting, collection management, deposit and withdrawal functionality, and a public interface for interacting with the NFTs.
@@ -27,13 +27,6 @@ The MintingFacility resource provides functionalities for generating new NFTs an
 
 4. **Public Interface**: Access the public interface to interact with functions for NFT deposit, retrieval, and borrowing.
 
-## Getting Started
-
-1. **Install Dependencies**: Ensure you have the necessary dependencies installed for Cadence development.
-
-2. **Deploy Contract**: Deploy the smart contract to the Flow blockchain to start utilizing its functionalities.
-
-3. **Interact with Contract**: Use the provided functions to interact with the smart contract, including minting NFTs, managing collections, and depositing/withdrawing NFTs.
 
 ## Notes
 
